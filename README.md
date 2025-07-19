@@ -37,11 +37,12 @@ Segment customers into meaningful groups based on financial indicators to better
 ### 3. Optimal Cluster Selection
 - Applied the **Elbow Method** to determine the best number of clusters.
 <img width="283" height="172" alt="Optimal_clusters" src="https://github.com/user-attachments/assets/97a6fd16-f3df-4aea-b471-61fb4ed0634b" />
+
 - Found optimal `k = 4`.
 
 ### 4. KMeans Clustering
 - Used `KMeans` algorithm to assign each customer to one of the four clusters based on feature similarity.
-<img width="365" height="311" alt="Feature_correlation_heatmap" src="https://github.com/user-attachments/assets/32fce816-a0cc-43b6-ae7e-6f90280e13c5" />
+<img width="412" height="397" alt="Customer_clusters" src="https://github.com/user-attachments/assets/dc320e29-abb3-4800-8e04-43630a59fccb" />
 
 
 ### 5. Cluster Interpretation
