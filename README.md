@@ -1,4 +1,4 @@
-# 👨‍👩‍👧‍👦 Customer Segmentation Using KMeans Clustering
+# 👨‍👩‍👧‍👦 Customer Segmentation for Financial Services
 
 ## 📌 Project Overview
 This project focuses on identifying distinct customer segments based on financial behavior using KMeans clustering. By analyzing structured data such as age, income, credit score, loan amount, and investment value, the project aims to uncover patterns that can inform personalized financial services, targeted marketing, and strategic decision-making.
