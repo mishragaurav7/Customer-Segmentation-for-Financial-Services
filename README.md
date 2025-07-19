@@ -75,13 +75,6 @@ Segment customers into meaningful groups based on financial indicators to better
 
 ----
 
-## 🚀 How to Use
-1. Clone the repository or download the notebook.
-2. Install required libraries using `pip install -r requirements.txt` (optional).
-3. Run the Jupyter notebook step-by-step to reproduce results.
-
-----
-
 ## 👤 Contact
 **Gaurav Mishra**  
 Email: (7mishragaurav@gmail.com)
